@@ -53,14 +53,13 @@
 ## 📊 My GitHub at a glance
 <p align="center">
   <!-- General stats -->
-  <img height="165" src="https://readme-stats-gilt-iota.vercel.app/api?username=egemengzr&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=21600&v=1" />
+  <img src="https://readme-stats-gilt-iota.vercel.app/api?username=egemengzr&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true&include_all_commits=true&hide_border=true" />
   <!-- Top langs -->
   <img height="165" src="https://readme-stats-gilt-iota.vercel.app/api/top-langs/?username=egemengzr&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=21600&v=1" />
 </p>
 
 <p align="center">
   <!-- Streak -->
-  <img src="https://readme-stats-gilt-iota.vercel.app/api?username=egemengzr&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true&include_all_commits=true&hide_border=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=egemengzr&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </p>
 
