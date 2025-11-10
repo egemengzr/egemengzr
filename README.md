@@ -25,7 +25,7 @@
 
 ### 👋 About me
 - 🎓 **Computer Engineering** student @ **Kocaeli University**
-- ✈️ **KOUSTECH** — Unity flight sim & embedded tooling
+- ✈️ **KOUSTECH** — Unity flight sim & software team
 - 🧰 Maker: 3D-printed RC vehicles, HomeLab, GameDev, Parsers
 - ☕ Coffee-powered problem solver
 
