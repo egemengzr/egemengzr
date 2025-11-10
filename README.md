@@ -54,9 +54,9 @@
 
 <p align="center">
   <!-- General stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=egemengzr&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="165" src="https://readme-stats-git-main-egemen-gezers-projects.vercel.app/api?username=egemengzr&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true" />
   <!-- Top langs -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egemengzr&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="165" src="https://readme-stats-git-main-egemen-gezers-projects.vercel.app/api/top-langs/?username=egemengzr&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
 </p>
 
 <p align="center">
@@ -75,14 +75,14 @@
 </p>
 
 ---
-
+<!---
 ### 📈 Full metrics (includes private)
 <p align="center">
   <img src="https://raw.githubusercontent.com/egemengzr/egemengzr/main/metrics.svg" alt="metrics"/>
 </p>
 
 ---
-
+--->
 ## 🧠 Skills & Tools
 <p>
   <!-- Core -->
