@@ -78,7 +78,7 @@
 
 ### 📈 Full metrics (includes private)
 <p align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://raw.githubusercontent.com/egemengzr/egemengzr/main/metrics.svg" alt="metrics"/>
 </p>
 
 ---
