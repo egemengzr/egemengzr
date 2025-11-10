@@ -26,7 +26,7 @@
 ### 👋 About me
 - 🎓 **Computer Engineering** student @ **Kocaeli University**
 - ✈️ **KOUSTECH** — Unity flight sim & embedded tooling
-- 🧰 Maker: 3D-printed RC vehicles, HomeLab, GameDev
+- 🧰 Maker: 3D-printed RC vehicles, HomeLab, GameDev, Parsers
 - ☕ Coffee-powered problem solver
 
 ---
@@ -41,9 +41,11 @@
   <a href="https://github.com/egemengzr/MavCs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=egemengzr&repo=MavCs&theme=tokyonight" />
   </a>
+  <!---
   <a href="https://github.com/egemengzr/hologram-box">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=egemengzr&repo=hologram-box&theme=tokyonight" />
   </a>
+  --->
 </p>
 
 ---
@@ -79,13 +81,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MAVLink-EE3E38?logo=protocols-dot-io&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-FF7F00?logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/ImGui-0099ff?logo=steam&logoColor=white" />
 </p>
 
 ---
