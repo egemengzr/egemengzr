@@ -60,12 +60,8 @@
 
 <p align="center">
   <!-- Streak -->
+  <img src="https://readme-stats-gilt-iota.vercel.app/api?username=egemengzr&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true&include_all_commits=true&hide_border=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=egemengzr&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=egemengzr&theme=tokyo-night&radius=8&hide_title=true" />
 </p>
 
 <!-- Trophies -->
