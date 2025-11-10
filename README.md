@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=600&center=true&vCenter=true&lines=Computer+Engineering+%40+Kocaeli+University;KOUSTECH+%2F+Software;C%2B%2B+%7C+C%23+%7C+Unity+%7C+Robotics+%7C+ArduPilot;3D+printing+%2B+RC+%2B+Embedded+Systems;Building+things+end-to-end+%F0%9F%9A%80"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=600&center=true&vCenter=true&lines=C%2B%2B+%2F+C%23+%2F+Unity;Simulation+%26+Game+Development;3D+Printing+%26+Hardware+Integration;MavCs+%28Minimal+C%23+MAVLink+Library%29" />
 </a>
 </p>
 
