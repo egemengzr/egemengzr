@@ -1,12 +1,15 @@
 name: GitHub Metrics
+
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -15,9 +18,13 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Istanbul
-
+          
           repositories_affiliations: owner, collaborator, organization_member
           repositories_private: yes
+
+          filename: metrics.svg
+          committer_branch: main
+          committer_message: "chore: update metrics (private included)"
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -31,7 +38,7 @@ jobs:
           plugin_followup_sections: user
 
           plugin_habits: yes
-          plugin_habits_from: 400
+          plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
