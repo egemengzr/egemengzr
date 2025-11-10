@@ -54,9 +54,9 @@
 
 <p align="center">
   <!-- General stats -->
-  <img height="165" src="https://readme-stats-git-main-egemen-gezers-projects.vercel.app/api?username=egemengzr&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="165" src="https://readme-stats-git-main-egemen-gezers-projects.vercel.app/api?username=egemengzr&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=21600" />
   <!-- Top langs -->
-  <img height="165" src="https://readme-stats-git-main-egemen-gezers-projects.vercel.app/api/top-langs/?username=egemengzr&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+  <img height="165" src="https://readme-stats-git-main-egemen-gezers-projects.vercel.app/api/top-langs/?username=egemengzr&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=21600" />
 </p>
 
 <p align="center">
