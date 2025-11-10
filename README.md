@@ -36,16 +36,9 @@
   <a href="[https://github.com/kouprolab/docking-with-lidar](https://github.com/kouprolab25-2355/docking-with-lidar.git)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=egemengzr&repo=docking-with-lidar&theme=tokyonight" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/egemengzr/MavCs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=egemengzr&repo=MavCs&theme=tokyonight" />
   </a>
-  <!---
-  <a href="https://github.com/egemengzr/hologram-box">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=egemengzr&repo=hologram-box&theme=tokyonight" />
-  </a>
-  --->
 </p>
 
 ---
