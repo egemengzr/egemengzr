@@ -17,8 +17,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=600&center=true&vCenter=true&lines=Computer+Engineering+%40+Kocaeli+University;KOUSTECH+UAV+%2F+Avionics;C%2B%2B+%7C+C%23+%7C+Unity+%7C+Robotics+%7C+ArduPilot;3D+printing+%2B+RC+%2B+Embedded+Systems;Building+things+end-to-end+%F0%9F%9A%80"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=600&center=true&vCenter=true&lines=Computer+Engineering+%40+Kocaeli+University;KOUSTECH+%2F+Software;C%2B%2B+%7C+C%23+%7C+Unity+%7C+Robotics+%7C+ArduPilot;3D+printing+%2B+RC+%2B+Embedded+Systems;Building+things+end-to-end+%F0%9F%9A%80"/>
+</a>
 </p>
 
 ---
@@ -51,6 +51,7 @@
 ---
 
 ## 📊 My GitHub at a glance
+
 <p align="center">
   <!-- General stats -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=egemengzr&show_icons=true&theme=tokyonight&rank_icon=github" />
@@ -75,6 +76,13 @@
 
 ---
 
+### 📈 Full metrics (includes private)
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics"/>
+</p>
+
+---
+
 ## 🧠 Skills & Tools
 <p>
   <!-- Core -->
@@ -91,7 +99,7 @@
 
 ## 📬 Connect
 <p>
-  <a href="https://github.com/egemengzr"><img src="https://img.shields.io/badge/GitHub-egemengezer-000?logo=github" /></a>
+  <a href="https://github.com/egemengzr"><img src="https://img.shields.io/badge/GitHub-egemengzr-000?logo=github" /></a>
   <a href="https://www.linkedin.com/in/egemen-gezer-295b1927a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:egemengzr@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-Contact-1f6feb?logo=gmail&logoColor=white" /></a>
 </p>
