@@ -17,7 +17,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=600&center=true&vCenter=true&lines=C%2B%2B+%2F+C%23+%2F+Unity;Simulation+%26+Game+Development;3D+Printing+%26+Hardware+Integration;MavCs+%28Minimal+C%23+MAVLink+Library%29" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&width=600&center=true&vCenter=true&lines=C%2B%2B+%2F+C%23+%2F+Unity;Simulation+%26+Game+Development;3D+Printing+%26+Hardware+Integration;Custom+Data+Parsers+%26+Communication+Systems" />
 </a>
 </p>
 
